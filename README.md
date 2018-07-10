@@ -41,3 +41,19 @@ module.exports = {
 ```
 # #  3. Chuẩn bị cho check Lint:
 https://medium.com/@oguzhancakmak/react-native-eslint-setup-46ec0586e21b
+Lần đầu tiên
+
+```sh
+npm install -g eslint
+```
+
+```sh
+npm install — save-dev eslint-config-rallycoding
+```
+
+Make a new file called .eslintrc. Copy and paste the content below into the file.
+```js
+{
+“extends”: “rallycoding”
+}
+```
