@@ -54,6 +54,6 @@ npm install — save-dev eslint-config-rallycoding
 Make a new file called .eslintrc. Copy and paste the content below into the file.
 ```js
 {
-“extends”: “rallycoding”
+  "extends": “rallycoding”
 }
 ```
