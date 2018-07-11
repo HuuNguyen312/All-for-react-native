@@ -44,7 +44,7 @@ https://medium.com/@oguzhancakmak/react-native-eslint-setup-46ec0586e21b
 
 Chỉ lần đầu tiên
 
-```sh
+```
 npm install -g eslint
 or
 yarn add global eslint
